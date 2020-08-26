@@ -76,7 +76,7 @@ Dependencies
 ============
 
 * FUSE (Python module: `fusepy <https://github.com/terencehonles/fusepy>`_)
-* `youtube-dl <https://github.com/rg3/youtube-dl/tree/master/youtube_dl>`_ (this dependency will be droped in the future)
+* `youtube-dl <https://github.com/rg3/youtube-dl/tree/master/youtube_dl>`_ (this dependency will be dropped in the future)
 * `Requests <https://github.com/kennethreitz/requests>`_
 
 If you mount YTFS with options to download full videos at heighest quality, then audio and video merging may be needed. In such case FFmpeg or Libav is required.
